@@ -1,0 +1,36 @@
+.Home {
+	color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	border: solid 4px black;
+	border-radius: 15px;
+}
+.HowToUse {
+	color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	border: solid 4px black;
+	border-radius: 15px;
+}
+.LatestNews {
+	color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	border: solid 4px black;
+	border-radius: 15px;
+}
+.SiegeDatas {
+	color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	border: solid 4px black;
+	border-radius: 15px;
+}

@@ -1,0 +1,20 @@
+.HomeBody {
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+	width: 40vw;
+	padding-left: 100px;
+	font-size: 16px;
+}
+
+.HomeBody h1 {
+	color: black;
+	text-align: center;
+	font-size: 2em;
+}
+
+.HomeBody p {
+	text-align: center;
+	color: white;
+	font-size: 1em;
+}

@@ -1,0 +1,21 @@
+.HowToUseBody {
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+	width: 40vw;
+	padding-left: 100px;
+	font-size: 16px;
+}
+
+.HowToUseBody h1 {
+	text-align: center;
+	color: black;
+	font-size: 2em;
+}
+
+
+.HowToUseBody p {
+	text-align: center;
+	color: white;
+	font-size: 1em;
+}

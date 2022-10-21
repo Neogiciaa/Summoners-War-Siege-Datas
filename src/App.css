@@ -1,0 +1,64 @@
+.App {
+  height: auto;
+  max-height: auto;
+  max-width: 1850px;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  background-image: url(./assets/images/background.jpg);
+  background-attachment: fixed;
+  font-family: 'Aboreto', cursive;
+
+}
+
+.Header {
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 50px;
+}
+
+.Body {
+  margin-left: 25vw;
+  margin-bottom: 10px;
+  border: solid 5px black;
+  border-radius: 20px;
+  height: 500px;
+  width: 50%;
+  background-color: rgb(48, 26, 26, 0.5);
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  color: white;
+}
+
+.Footer {
+  height: 10vh;
+  width: 20vw;
+  border: solid 5px black;
+  background-color: rgb(48, 26, 26, 0.5);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 20px;
+  margin-bottom: 7px;
+  margin-left: 40vw;
+  margin-right: 15px;
+}
+
+.Logo {
+  margin-left: 200px;
+}
+
+@media screen and (max-width: 1600px) {
+  .App {
+    width: 100%;
+  }
+
+  .Logo {
+    margin-left: 50px;
+  }
+}
